@@ -3,7 +3,9 @@ Sales forecast based on daily sales using Keras library
 
 پیش بینی فروش روزانه با استفاده از کتابخانه  Keras در پایتون
 
+
 استفاده از Keras و Tensorflow برای پیش بینی فروش روز های آینده.
+
 
 
 تشریح
@@ -37,11 +39,17 @@ Sales forecast based on daily sales using Keras library
 
 
 
+ 
  5000 دوره با استفاده از اندازه دسته ای 100
 
 دقت مدل
+
 Accuracy : 0.92 Train
+
 Accuracy (Train): 0.95
+
 Accuracy (Test): 0.92 Production
+
 Accuracy (Production): 0.90
+
  ورژن پایتون مورد استفاده در این پروژه 3.10 می باشد.
