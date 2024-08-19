@@ -34,3 +34,4 @@ Accuracy : 0.92 Train
 Accuracy (Train): 0.95
 Accuracy (Test): 0.92 Production
 Accuracy (Production): 0.90
+ ورژن پایتون مورد استفاده در این پروژه 3.10 می باشد.
