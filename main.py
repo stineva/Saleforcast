@@ -39,7 +39,7 @@ model.compile(optimizer='adamW', loss='mean_squared_error')
 print("Model Created")
 
 # متناسب کردن مدل با داده های آموزشی
-model.fit(features_train, target_train, epochs=100, batch_size=100)
+model.fit(features_train, target_train, epochs=5000, batch_size=100)
 print("Training completed")
 
 # ذخیره مدل آموزشی
