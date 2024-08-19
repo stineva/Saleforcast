@@ -27,6 +27,8 @@ Sales forecast based on daily sales using Keras library
  لایه پنهان سوم: 7 نورون رلو با 20 درصد ریزش
  
  لایه خروجی: 1 relu خطی
+
+ 
  
  
 
